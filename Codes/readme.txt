@@ -1,4 +1,4 @@
-How to Run the Codes
+# How to Run the Codes
 
 1. adj folder contains all the adjacency matrix under consideration
 2. modular folders contain the codes to run which are distributed into Bursting study and Inhibitory study; and in inhibitory study there is a localised and delocalised case
